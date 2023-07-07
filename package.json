@@ -1,0 +1,17 @@
+{
+  "name": "productivity",
+  "version": "1.0.0",
+  "description": "10X Work productivity",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/srikarmarupakadbc/productivity.git",
+  "author": "Srikar Marupaka",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "electron": "^25.2.0"
+  }
+}
